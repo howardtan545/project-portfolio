@@ -112,3 +112,9 @@ button:focus-visible {
 .nav li:hover {
   background-color: #7a7a7a;
 }
+
+/* container format */
+.container {
+  margin: 1rem;
+  text-align: center;
+}

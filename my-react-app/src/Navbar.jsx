@@ -1,6 +1,6 @@
 
 function Navbar() {
-
+    const path = window.location.pathname
     return <nav className="nav">
         <a href="/" className="site-title">Howard's Projects</a>
         <ul>
@@ -17,5 +17,6 @@ function Navbar() {
     </nav>
 
 }
+
 
 export default Navbar
