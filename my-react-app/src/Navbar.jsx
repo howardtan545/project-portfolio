@@ -4,7 +4,7 @@ function Navbar() {
     return <nav className="nav">
         <a href="/" className="site-title">Howard's Projects</a>
         <ul>
-            <li>
+            <li> 
                 <a href="/projects">Projects</a>
                 </li>
                 <li>
